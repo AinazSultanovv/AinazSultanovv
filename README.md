@@ -1,7 +1,7 @@
-## Привет！ 👋
+## Привет！ 👋 
 
 
-## 📊 Статистика
+## 📊 Статистика  ![Profile_views](https://komarev.com/ghpvc/?username=AinazSultanovv&color=green&style=for-the-badge)
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=AinazSultanovv
 )
