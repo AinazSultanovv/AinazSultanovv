@@ -1,6 +1,6 @@
 ## Привет！ 👋 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Всем+привет!;Меня+зовут+Айназ!;Я+QA+Engineer!;Контакты+снизу+страницы!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=В+тестировании+с+2020+года!;Актуализировал+>450+тест-кейсов!;Стою+на+доске+Садху+три+минуты!;Строю+дом+своими+руками!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=000000" alt="Example Usage - README Typing SVG">
 </p>
 
 
