@@ -1,4 +1,7 @@
 ## Привет！ 👋 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Всем+привет!;Меня+зовут+Айназ!;Я+QA+Engineer!;Контакты+снизу+страницы!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 
 ## 📊 Статистика  ![Profile_views](https://komarev.com/ghpvc/?username=AinazSultanovv&color=green&style=for-the-badge)
