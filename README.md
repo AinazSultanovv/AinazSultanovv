@@ -1,8 +1,4 @@
 ## Привет！ 👋 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=В+тестировании+с+2020+года!;Актуализировал+>450+тест-кейсов!;Стою+на+доске+Садху+15+минут!;Строю+дом+своими+руками!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=000000" alt="Example Usage - README Typing SVG">
-</p>
-
 
 ## 📊 Статистика  ![Profile_views](https://komarev.com/ghpvc/?username=AinazSultanovv&color=green&style=for-the-badge)
 
@@ -64,7 +60,6 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
 ## Автотесты
