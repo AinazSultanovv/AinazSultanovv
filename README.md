@@ -1,4 +1,5 @@
 ## Привет！ 👋 
+## QA Auto / Manual
 
 ## 📊 Статистика  ![Profile_views](https://komarev.com/ghpvc/?username=AinazSultanovv&color=green&style=for-the-badge)
 
